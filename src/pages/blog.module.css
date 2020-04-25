@@ -1,0 +1,14 @@
+.page{
+	background: yellow;
+	color: blue;
+	text-transform: capitalize;
+}
+
+.page h1{
+	background: yellow;
+	color:red;
+}
+.text{
+	line-height: 2;
+
+}
